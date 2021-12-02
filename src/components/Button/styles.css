@@ -1,0 +1,19 @@
+.button p input {
+  margin: 0;
+  height: auto;
+  width: auto;
+  padding: 0.5rem 2rem;
+  text-align: center;
+  border: none;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #d03987;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.button p input:hover {
+  background-color: yellow;
+  color: #000;
+}
